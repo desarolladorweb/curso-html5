@@ -5,4 +5,8 @@ y css
 Css es para estilos para html
 Javascript
 Es para eventos
+BACK END 
+DESAROLLADOR WEB
+PHP 
+
 
