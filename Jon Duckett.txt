@@ -8,5 +8,7 @@ Es para eventos
 BACK END 
 DESAROLLADOR WEB
 PHP 
+Programacion
+Pythom
 
 
